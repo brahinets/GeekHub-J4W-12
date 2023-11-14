@@ -3,13 +3,19 @@
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153082286-ee66eabe-7f14-48ed-8256-ad7cf4a8dd2f.png"> GeekHub
 ------------
 <p align="justify">
-Repository is dedicated to the eleventh season of open source volunteering educational initiative within the GeekHub organization, where people can obtain IT-skills for free. During 7-8 months of education, geeks attend a hub hosted in the city of <a href="https://goo.gl/maps/mZi6u17qnN3VdEzC7">Cherkasy (Ukraine, 18000)</a> and acquire the basic theoretical skills verified by practice in a variety of courses, from Project Management to Java and JavaScript. More details about GeekHub, our team, and our goals can be found on the official organization <a href="https://geekhub.ck.ua">GeekHub</a> web-page. This year was special again, it was launched during the full-scale invasion of Russia into Ukraine that had a dramatical negative on ukrainian IT market.
+Repository is dedicated to the open source volunteering educational initiative within the GeekHub organization, where people can obtain IT-skills for free. During 7-8 months of education, geeks attend a hub hosted in the city of <a href="https://goo.gl/maps/mZi6u17qnN3VdEzC7">Cherkasy (Ukraine, 18000)</a> and acquire the basic theoretical skills verified by practice in a variety of courses, from Project Management to Java and JavaScript. More details about GeekHub, our team, and our goals can be found on the official organization <a href="https://geekhub.ck.ua">GeekHub</a> web-page. This year was special again, it was launched during the full-scale invasion of Russia into Ukraine that had a dramatical negative impact on ukrainian IT market.
 </p>
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153068812-79820f3c-25dc-4e61-87dd-bf21b6b74986.png"> Java for Web
 ------------
 <p align="justify">
-The main course goal is to cover basic knowledge and skills required by still one of the hottest positions in the local job market as of 2022:  web development using <a href="https://www.java.com">Java</a> programming language. Once a week a new topic is presented to students, with homework, that in turn is reviewed by mentors and personal feedback is given to each student for improvements. The most common mistakes are reviewed with learners at the beginning of the next lesson. Starting from an overview of main core java features, continuing by <a href="https://spring.io">Spring Framework</a> and wrapping up by exploration of best development practices.
+The main course goal is to cover basic knowledge and skills required by still one of the hottest positions in the local job market as of 2023:  web development using <a href="https://www.java.com">Java</a> programming language. Once a week a new topic is presented to students, with homework, that in turn is reviewed by mentors and personal feedback is given to each student for improvements. The most common mistakes are reviewed with learners at the beginning of the next lesson. Starting from an overview of main core java features, continuing by <a href="https://spring.io">Spring Framework</a> and wrapping up by exploration of best development practices.
+</p>
+
+<img align="left" width="100" height="100" src="https://github.com/brahinets/GeekHub-J4W-12/assets/4119411/1c511b18-9e50-45bf-86e0-ba396f74a143"> Season 12
+------------
+<p align="justify">
+Twelfth season led by recent rookies, alumnus of Season 9 <a href="https://github.com/V-Nikolenko">Vladyslav Nikolenko</a>, <a href="https://github.com/cherniakb">Bohdan Cherniak</a> and <a href="https://github.com/volodymyr-Vedula">Volodymyr Vedula</a>. Two old-school mates <a href="https://github.com/brahinets">Yaroslav Brahinets</a> and <a href="https://github.com/vrudas">Vasya Rudas</a> assisted a bit again. Extra kudos for one-lecture rock stars for particular topics. Group stared with sizing of 18 people in October 2022 and finished in May 2023 by honorable graduation and certification of 7 fantastic rookies.
 </p>
 
 <details>  
@@ -50,4 +56,3 @@ The main course goal is to cover basic knowledge and skills required by still on
 </details>
 
 ### [In previous seasons...](https://github.com/brahinets/GeekHub-J4W-11)
-</p>
